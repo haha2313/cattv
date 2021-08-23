@@ -25,6 +25,27 @@
       ]
     },
     {
+      "key": "欧乐影院",
+      "name": "欧乐影院",
+      "type": 0,
+      "api": "https://www.olevod.com/api.php/provide/vod/at/xml",
+      "playUrl": ""
+    },
+    {
+      "key": "天空资源",
+      "name": "天空资源",
+      "type": 0,
+      "api": "https://caiji.tiankongapi.com/inc/api.php",
+      "playUrl": ""
+    },
+    {
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 0,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.fqzy.cc/jx.php?url="
+    },
+    {
       "key": "afys_spider",
       "name": "阿房影视",
       "type": 2,
