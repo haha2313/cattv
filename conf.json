@@ -25,6 +25,20 @@
       ]
     },
     {
+      "key": "优果",
+      "name": "优果",
+      "type": 0,
+      "api": "https://www.ugvapi.com/inc/zyapimac.php",
+      "playUrl": ""
+    },
+    {
+      "key": "老鸭资源",
+      "name": "老鸭资源",
+      "type": 0,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": ""
+    },
+    {
       "key": "欧乐影院",
       "name": "欧乐影院",
       "type": 0,
