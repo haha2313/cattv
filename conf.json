@@ -39,6 +39,13 @@
       "playUrl": "https://www.tutukiki.com/m3u8/?url="
     },
     {
+      "key": "恐怖鸭资源",
+      "name": "恐怖鸭资源",
+      "type": 0,
+      "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
       "key": "优果",
       "name": "优果",
       "type": 0,
