@@ -46,6 +46,27 @@
       "playUrl": ""
     },
     {
+      "key": "605资源",
+      "name": "605资源",
+      "type": 0,
+      "api": "http://www.605zy.co/inc/605m3u8.php",
+      "playUrl": ""
+    },
+    {
+      "key": "8090资源",
+      "name": "8090资源",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "1717资源",
+      "name": "1717资源",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/api.php",
+      "playUrl": ""
+    },
+    {
       "key": "优果",
       "name": "优果",
       "type": 0,
@@ -81,27 +102,6 @@
       "playUrl": "https://jx.fqzy.cc/jx.php?url="
     },
     {
-      "key": "afys_spider",
-      "name": "阿房影视",
-      "type": 2,
-      "api": "Scrawl1",
-      "playUrl": ""
-    },
-    {
-      "key": "jpys_spider",
-      "name": "极品影视",
-      "type": 2,
-      "api": "Scrawl2",
-      "playUrl": ""
-    },
-    {
-      "key": "mgys_spider",
-      "name": "暮光影视",
-      "type": 2,
-      "api": "Scrawl3",
-      "playUrl": ""
-    },
-    {
       "key": "柚子资源",
       "name": "柚子资源",
       "type": 0,
@@ -129,38 +129,11 @@
       ]
     },
     {
-      "key": "乐多资源",
-      "name": "乐多资源",
+      "key": "百度资源",
+      "name": "百度资源",
       "type": 0,
-      "api": "http://www.leduozy.com/inc/api.php",
-      "playUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=",
-      "categories": [
-        "综艺",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港剧",
-        "日剧",
-        "欧美剧",
-        "台剧",
-        "韩剧",
-        "其他动漫",
-        "伦理",
-        "海外剧",
-        "纪录片",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "动画电影",
-        "篮球",
-        "足球",
-        "网球"
-      ]
+      "api": "https://cj.apibdzy.com/inc/api.php",
+      "playUrl": "https://jx.444662.cn/m3u8/?url=",
     },
     {
       "key": "穿梭资源",
@@ -259,29 +232,6 @@
         "日本动漫",
         "欧美动漫",
         "其他动漫"
-      ]
-    },
-    {
-      "key": "7k资源",
-      "name": "7k资源",
-      "type": 0,
-      "api": "https://zy.7kjx.com/cjapi.php",
-      "playUrl": "",
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "其他片"
       ]
     },
     {
@@ -394,13 +344,6 @@
         "泰国剧",
         "伦理片"
       ]
-    },
-    {
-      "key": "365影视",
-      "name": "365影视",
-      "type": 0,
-      "api": "http://video.365tx.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
     },
     {
       "key": "影派资源",
