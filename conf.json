@@ -25,6 +25,20 @@
       ]
     },
     {
+      "key": "无尽资源",
+      "name": "无尽资源",
+      "type": 0,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": ""
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源",
+      "type": 0,
+      "api": "https://www.hongniuzy.com/inc/api.php",
+      "playUrl": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
       "key": "优果",
       "name": "优果",
       "type": 0,
@@ -35,8 +49,8 @@
       "key": "老鸭资源",
       "name": "老鸭资源",
       "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": ""
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.laoyam3u8.com/aliplayer/?url="
     },
     {
       "key": "欧乐影院",
