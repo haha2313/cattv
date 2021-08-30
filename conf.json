@@ -16,6 +16,13 @@
       "playUrl": ""
     },
     {
+      "key": "1717qq",
+      "name": "1717qq",
+      "type": 0,
+      "api": "http://zy.itono.cn/inc/qq.php",
+      "playUrl": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
       "key": "红牛资源",
       "name": "红牛资源",
       "type": 0,
