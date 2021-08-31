@@ -9,26 +9,11 @@
       "categories": []
     },
     {
-      "key": "影视工厂",
-      "name": "影视工厂",
-      "type": 0,
-      "api": "https://www.ysgc.cc/api.php/app/nav",
-      "playUrl": "",
-      "categories": []
-    },
-    {
       "key": "无尽资源",
       "name": "无尽资源",
       "type": 0,
       "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "playUrl": ""
-    },
-    {
-      "key": "百度",
-      "name": "百度",
-      "type": 0,
-      "api": "https://cj.apibdzy.com/inc/api.php",
-      "playUrl": "https://jx.parwix.com:4433/player/?url="
     },
     {
       "key": "红牛资源",
