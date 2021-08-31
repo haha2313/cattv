@@ -9,6 +9,14 @@
       "categories": []
     },
     {
+      "key": "影视工厂",
+      "name": "影视工厂",
+      "type": 0,
+      "api": "https://www.ysgc.cc/api.php/app/nav",
+      "playUrl": "",
+      "categories": []
+    },
+    {
       "key": "无尽资源",
       "name": "无尽资源",
       "type": 0,
