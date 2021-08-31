@@ -44,6 +44,83 @@
       "playUrl": ""
     },
     {
+      "key": "芒果",
+      "name": "芒果",
+      "type": 0,
+      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "极品资源",
+      "name": "极品资源",
+      "type": 0,
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "三零资源",
+      "name": "三零资源",
+      "type": 0,
+      "api": "http://api.000zy.com/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "侦探APP",
+      "name": "侦探APP",
+      "type": 0,
+      "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "KK看剧",
+      "name": "KK看剧",
+      "type": 0,
+      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
+      "categories": []
+    },
+    {
+      "key": "萌果资源",
+      "name": "萌果资源",
+      "type": 0,
+      "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "美剧星球",
+      "name": "美剧星球",
+      "type": 0,
+      "api": "https://www.meijuxq.com/inc/api.php",
+      "categories": []
+    },
+    {
+      "key": "八戒云",
+      "name": "八戒云",
+      "type": 0,
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "categories": []
+    },
+    {
+      "key": "速搜资源",
+      "name": "速搜资源",
+      "type": 0,
+      "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
+      "categories": []
+    },
+    {
+      "key": "电影牛",
+      "name": "电影牛",
+      "type": 0,
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
+      "key": "好好资源",
+      "name": "好好资源",
+      "type": 0,
+      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
+      "categories": []
+    },
+    {
       "key": "安逸",
       "name": "安逸",
       "type": 0,
