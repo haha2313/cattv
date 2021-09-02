@@ -354,198 +354,173 @@
 	
 	
 	
-	{
+    {
       "key": "jiali",
       "name": "佳丽 TV",
-	  "type": 0,
+      "type": 0,
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
-
-  },
+    },
     {
       "key": "xhgcjym",
       "name": "小黄瓜资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://cj.xhgcjym.com/inc/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "8090zy",
       "name": "8090资源网",
-	  "type": 0,
+      "type": 0,
       "api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "rerezy",
       "name": "热热资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://api.rereapi.com/inc/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "agzy",
       "name": "环亚资源",
-	  "type": 0,
+	"type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "lajiaozy",
       "name": "辣椒资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://api.11bat.com/mac10.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "dadizy",
       "name": "大地资源",
-	  "type": 0,
+      "type": 0,
       "api": "https://dadiapi.com/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "1WeZ6q",
       "name": "83特殊.xxoo",
-	  "type": 0,
+      "type": 0,
       "api": "https://www.xxohub3.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "ixxzya",
       "name": "IXX 资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://api.iixxzyapi.com/inc/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "khzy",
       "name": "快活资源站",
-	  "type": 0,
+      "type": 0,
       "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "Tuyoxk",
       "name": "90特殊.三合资源",
-	  "type": 0,
+      "type": 0,
       "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "WC3h0o",
       "name": "93特殊.玉米资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://api.cj644.com/inc/zyapimac.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "dydyOa",
       "name": "91特殊.大炮资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "NhTLgM",
       "name": "76特殊.色色",
-	  "type": 0,
+      "type": 0,
       "api": "http://m.7777688.com/inc/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "LYCe0z",
       "name": "78特殊.乐播",
-	  "type": 0,
+      "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "Iy0Jlq",
       "name": "79特殊.苍天",
-	  "type": 0,
+      "type": 0,
       "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "77raVf",
       "name": "80特殊.云霸资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://cj.1234567bt.com/inc/ldg_sea.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "4btciy",
       "name": "84特殊.鲨鱼资源",
-	  "type": 0,
+	"type": 0,
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "qz492Y",
       "name": "86特殊.七七资源",
-	  "type": 0,
+      "type": 0,
       "api": "https://www.77zyw.xyz/inc/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "vJQZTA",
       "name": "92特殊.独家资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "FyxUS8",
       "name": "95特殊.35资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://cj.35zycj.com/inc/zyapimac.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "RRvupO",
       "name": "96特殊.av88资源",
-	  "type": 0,
+      "type": 0,
       "api": "http://m.7777688.com/inc/api.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "77ziyuan",
       "name": "77资源",
-	  "type": 0,
+      "type": 0,
       "api": "https://www.77zyw.xyz/inc/seacmsapi.php",
       "playUrl": ""
-	  "group": "福利"
     },
     {
       "key": "zijian",
-      "name": "自建试验",
-	  "type": 0,
+      "name": "自建综合试验",
+      "type": 0,
       "api": "http://192.168.10.5/api.php/provide/vod/at/xml/",
       "playUrl": ""
-      "group": "福利"
     }
 	
   ],
