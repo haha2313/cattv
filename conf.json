@@ -344,16 +344,13 @@
       "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "playUrl": ""
     },
-	{
+    {
       "key": "百度资源",
       "name": "百度资源",
       "type": 0,
       "api": "https://cj.apibdzy.com/inc/api.php",
       "playUrl": ""
     },
-	
-	
-	
     {
       "key": "jiali",
       "name": "佳丽 TV",
@@ -522,7 +519,6 @@
       "api": "http://192.168.10.5/api.php/provide/vod/at/xml/",
       "playUrl": ""
     }
-	
   ],
   "lives": [
     {
