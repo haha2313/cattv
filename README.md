@@ -1,7 +1,7 @@
 # cattv
 catTV config
 国内cdn地址
-新增https://wds.ecsxs.com/212757.json
+新引入https://wds.ecsxs.com/212757.json中的爬虫资源
 
 https://cdn.jsdelivr.net/gh/haha2313/cattv@main/conf.json
 
