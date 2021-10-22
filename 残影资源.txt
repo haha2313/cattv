@@ -1,4 +1,3 @@
-#搬运自https://github.com/13663316223/CanYing/blob/main/%E6%AE%8B%E5%BD%B1%E8%B5%84%E6%BA%90.txt
 点播：
 爱看,http://v.aik.la/api.php/provide/vod/at/xml,不解析
 安逸,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
