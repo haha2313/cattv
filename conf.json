@@ -530,19 +530,7 @@
       "group": "正常+福利（试验自建站拷贝）"
     }
   ],
-	"parses": [
-  {
-    "name": "Json并发",
-    "type": 2,
-    "url": "Parallel"
-  },
-  {
-    "name": "Json轮询",
-    "type": 2,
-    "url": "Sequence"
-  }
- 
-],
+	
   "lives": [
     {
       "group": "山东电信",
