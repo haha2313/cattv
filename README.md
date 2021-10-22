@@ -4,7 +4,7 @@ catTV config
 
 
 catTV config(2.0)
-国内cdn地址   https://cdn.jsdelivr.net/gh/haha2313/cattv@main/conf.json
+国内cdn地址   https://cdn.jsdelivr.net/gh/haha2313/cattv@main/conf(2.0).json
 
 新引入 https://wds.ecsxs.com/212757.json 中的爬虫资源
 
