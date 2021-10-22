@@ -942,6 +942,5 @@ SiTV游戏风云 1080,http://183.207.255.188/live/program/live/yxfyhd/4000000/mn
 SiTV欢笑剧场 1080,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 SiTV极速汽车 1080,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 【其他频道尾】
-
 结束
 
