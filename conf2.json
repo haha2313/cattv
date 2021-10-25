@@ -1690,7 +1690,7 @@
       "name": "明日资源(需解析)",
       "type": 0,
       "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
+      "playUrl": "https://jx.yingxiangbao.cn/vip.php?url=",
       "categories": [
         "综艺",
         "动漫",
