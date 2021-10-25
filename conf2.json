@@ -2521,6 +2521,10 @@
       "url": "https://vip.bljiex.com/?v="
     },
     {
+      "name": "乐多资源",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
+    },
+    {
       "name": "ccyjjd",
       "url": "https://ckmov.ccyjjd.com/ckmov/?url="
     },
@@ -2583,10 +2587,6 @@
     {
       "name": "九八",
       "url": "https://jx.youyitv.com/?url="
-    },
-    {
-      "name": "老板",
-      "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
       "name": "乐喵",
