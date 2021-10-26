@@ -292,8 +292,6 @@
       "quickSearch": 1,
       "filterable": 1
     }
-  ]
-}
 	  
   ],
 	
@@ -1438,4 +1436,4 @@
     "cms.qdwght.com"
   ]
 }
-"spider": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/custom_spider%20(1).jar"
+
