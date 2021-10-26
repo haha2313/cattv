@@ -88,9 +88,7 @@ KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,不解析
 淘片资源,https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml,不解析
 605资源,http://www.605zy.co/inc/605m3u8.php,不解析
 8090资源,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,不解析
-优果,https://www.ugvapi.com/inc/zyapimac.php,不解析
-老鸭资源,https://api.apilyzy.com/api.php/provide/vod/at/xml,解析
-欧乐影院,https://www.olevod.com/api.php/provide/vod/at/xml,不解析
+
 天空资源,https://caiji.tiankongapi.com/inc/api.php,不解析
 番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,解析
 柚子资源,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,不解析
@@ -134,6 +132,9 @@ IXX 资源,http://api.iixxzyapi.com/inc/api.php,不解析
 95特殊.35资源,http://cj.35zycj.com/inc/zyapimac.php,不解析
 96特殊.av88资源,http://m.7777688.com/inc/api.php,不解析
 77资源,https://www.77zyw.xyz/inc/seacmsapi.php,不解析
+优果,https://www.ugvapi.com/inc/zyapimac.php,不解析
+老鸭资源,https://api.apilyzy.com/api.php/provide/vod/at/xml,解析
+欧乐影院,https://www.olevod.com/api.php/provide/vod/at/xml,不解析
 自建综合试验,http://192.168.10.5/api.php/provide/vod/at/xml/,不解析
 【福利点播尾】 
 结束
