@@ -1245,6 +1245,211 @@
       "filterable": 0
     }
   ],
+  "lives": [
+    {
+      "group": "山东电信",
+      "channels": [
+        {
+          "name": "威海综合",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/live/weihai_tv01/index.m3u8"
+          ]
+        },
+        {
+          "name": "威海公共",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/live/weihai_tv02/index.m3u8"
+          ]
+        },
+        {
+          "name": "威海海洋",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/live/weihai_tv03/index.m3u8"
+          ]
+        },
+        {
+          "name": "荣成综合",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/rongcheng/rongcheng_tv01/index.m3u8"
+          ]
+        },
+        {
+          "name": "荣成生活",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/rongcheng/rongcheng_tv02/index.m3u8"
+          ]
+        },
+        {
+          "name": "文登一套",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/live/wendeng_tv01/index.m3u8",
+            "http://jsylivealone302.iqilu.com/live/wendeng_tv01.m3u8"
+          ]
+        },
+        {
+          "name": "文登二套",
+          "urls": [
+            "https://jsylivealone302.iqilu.com/live/wendeng_tv02/index.m3u8",
+            "http://jsylivealone302.iqilu.com/live/wendeng_tv02.m3u8"
+          ]
+        },
+        {
+          "name": "乳山新闻综合",
+          "urls": [
+            "http://jsylivealone302.iqilu.com/live/rushan_tv01.m3u8",
+            "https://jsylivealone302.iqilu.com/live/rushan_tv01/index.m3u8",
+            "https://livealone302.iqilu.com/live/rushan_tv01/index.m3u8"
+          ]
+        },
+        {
+          "name": "乳山生活",
+          "urls": [
+            "http://jsylivealone302.iqilu.com/live/rushan_tv02.m3u8",
+            "https://jsylivealone302.iqilu.com/live/rushan_tv02/index.m3u8",
+            "https://livealone302.iqilu.com/live/rushan_tv02/index.m3u8"
+          ]
+        },
+        {
+          "name": "济南影视",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV1",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV3",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV4亚洲",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV4欧洲",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV4美洲",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV5",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV5+",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV6",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV7",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV8",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV9",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV10",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV11",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000011/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV11HD",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV12",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV13",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000013/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV13HD",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV14",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV15",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000015/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV15HD",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV17",
+          "urls": [
+            "http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
   "parses": [
     {
       "name": "Json并发",
