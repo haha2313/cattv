@@ -1,4 +1,5 @@
 {
+  "spider": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/jar/custom_spider.jar?raw=true",
   "sites": [
     {
       "key": "快播云",
@@ -1752,6 +1753,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "spider": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/custom_spider%20(1).jar"
+  ]
 }
