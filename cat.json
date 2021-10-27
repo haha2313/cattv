@@ -1428,6 +1428,16 @@
       "filterable": 0
     },
     {
+      "key": "爱播资源",
+      "name": "CR爱播资源",
+      "type": 0,
+      "api": "https://api.aibozyapi.com/vod/at/xml/",
+      "playUrl": "https://player.aibozyplayer.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "自建综合试验",
       "name": "CR自建综合拷贝试验",
       "type": 0,
