@@ -1,5 +1,4 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/jar/custom_spider.jar?raw=true",
   "sites": [
     {
       "key": "快播云",
@@ -1228,7 +1227,7 @@
     },
     {
       "key": "老鸭资源",
-      "name": "老鸭资源",
+      "name": "CR老鸭资源",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
       "playUrl": "https://player.laoyam3u8.com/aliplayer/?url=",
@@ -1238,9 +1237,191 @@
     },
     {
       "key": "优果",
-      "name": "优果",
+      "name": "CR优果",
       "type": 0,
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "佳丽TV",
+      "name": "CR佳丽TV",
+      "type": 0,
+      "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "环亚资源",
+      "name": "CR环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大地资源",
+      "name": "CR大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "色色",
+      "name": "CR色色",
+      "type": 0,
+      "api": "http://m.7777688.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "乐播",
+      "name": "CR乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "苍天",
+      "name": "CR苍天",
+      "type": 0,
+      "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "鲨鱼资源",
+      "name": "CR鲨鱼资源",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "乐鱼资源",
+      "name": "CR乐鱼资源",
+      "type": 0,
+      "api": "https://www.leyuzyapi.com/inc/api.php",
+      "playUrl": "https://player.leyuzy.net/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "探探资源",
+      "name": "CR探探资源",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "色色资源站",
+      "name": "CR色色资源站",
+      "type": 0,
+      "api": "http://secj8.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "玖玖资源站",
+      "name": "CR玖玖资源站",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sck.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "狼少年资源站",
+      "name": "CR狼少年资源站",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "富二代资源站",
+      "name": "CR富二代资源站",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "字幕网资源站",
+      "name": "CR字幕网资源站",
+      "type": 0,
+      "api": "http://zmcj88.com/sapi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "久草资源站",
+      "name": "CR久草资源站",
+      "type": 0,
+      "api": "http://jcspcj8.com/sapi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "JAV名优资源站",
+      "name": "CR-JAV名优资源站",
+      "type": 0,
+      "api": "http://mygzycj.com/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "利来资源站",
+      "name": "CR利来资源站",
+      "type": 0,
+      "api": "http://llzxcj.com/inc/sck.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "博天堂资源站",
+      "name": "CR博天堂资源站",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "环亚资源站",
+      "name": "CR环亚资源站",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "自建综合试验",
+      "name": "CR自建综合拷贝试验",
+      "type": 0,
+      "api": "http://192.168.10.5/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1753,5 +1934,6 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+  "spider": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/jar/custom_spider.jar"
 }
