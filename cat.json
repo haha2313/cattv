@@ -7,7 +7,7 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "柚子资源",
@@ -16,7 +16,7 @@
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "乐多采集",
@@ -26,7 +26,7 @@
       "playUrl": "https://api.xxctzy.com/1.php?vid=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "安逸(51)影院",
@@ -35,7 +35,7 @@
       "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "2A资源站",
@@ -44,7 +44,7 @@
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "蘑菇资源",
@@ -53,7 +53,7 @@
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "88资源",
@@ -62,7 +62,7 @@
       "api": "http://www.88zyw.net/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "39影视",
@@ -71,7 +71,7 @@
       "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "追剧吧",
@@ -80,7 +80,7 @@
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "红牛资源",
@@ -90,7 +90,7 @@
       "playUrl": "https://www.tutukiki.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "北斗星",
@@ -99,7 +99,7 @@
       "api": "https://v8.bdxzyapi.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "三零资源",
@@ -108,7 +108,7 @@
       "api": "http://api.000zy.com/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "侦探APP",
@@ -117,7 +117,7 @@
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "KK看剧",
@@ -126,7 +126,7 @@
       "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "萌果资源",
@@ -135,7 +135,7 @@
       "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "八戒云",
@@ -144,7 +144,7 @@
       "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "速影",
@@ -153,7 +153,7 @@
       "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "1886",
@@ -162,7 +162,7 @@
       "api": "http://cj.1886zy.co/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "橘猫",
@@ -171,7 +171,7 @@
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "淘片资源",
@@ -180,7 +180,7 @@
       "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "605资源",
@@ -189,7 +189,7 @@
       "api": "http://www.605zy.co/inc/605m3u8.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "8090资源",
@@ -198,7 +198,7 @@
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "天空资源",
@@ -207,7 +207,7 @@
       "api": "https://caiji.tiankongapi.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "番茄资源",
@@ -216,7 +216,7 @@
       "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "TVB云播",
@@ -225,7 +225,7 @@
       "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "思古",
@@ -234,7 +234,7 @@
       "api": "https://www.siguyy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "百度资源",
@@ -243,7 +243,7 @@
       "api": "https://cj.apibdzy.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "人人资源",
@@ -252,17 +252,7 @@
       "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_yysdali",
-      "name": "YYDS影视",
-      "type": 3,
-      "api": "csp_YydsAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/yyds.json"
+      "filterable": 1
     },
     {
       "key": "M3U8TV",
@@ -271,7 +261,7 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "乐奇艺",
@@ -280,7 +270,7 @@
       "api": "https://www.lqiyi.co/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "BL影视",
@@ -289,7 +279,7 @@
       "api": "https://bljiex.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "小蜻蜓",
@@ -298,7 +288,7 @@
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "乐多资源",
@@ -307,7 +297,7 @@
       "api": "http://cj.leduocaiji.com/inc/seacmsapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "无尽",
@@ -316,7 +306,7 @@
       "api": "https://api.wujinapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "605资源",
@@ -325,7 +315,7 @@
       "api": "http://www.605zy.co/inc/605m3u8.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "1717云(需解析)",
@@ -335,7 +325,7 @@
       "playUrl": "https://jx.bpba.cc/?v=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "明日资源(需解析)",
@@ -345,7 +335,7 @@
       "playUrl": "https://jx.yingxiangbao.cn/vip.php?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Enlienli",
@@ -372,7 +362,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Cokemv",
@@ -381,7 +371,7 @@
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Buka",
@@ -390,7 +380,7 @@
       "api": "csp_Buka",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Ysgc",
@@ -399,7 +389,7 @@
       "api": "csp_Ysgc",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_N0ys",
@@ -408,7 +398,7 @@
       "api": "csp_N0ys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Nekk",
@@ -417,7 +407,7 @@
       "api": "csp_Nekk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_EPangApp",
@@ -426,7 +416,7 @@
       "api": "csp_EPangApp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Djx",
@@ -435,7 +425,7 @@
       "api": "csp_Djx",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Imaple",
@@ -444,7 +434,7 @@
       "api": "csp_Imaple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Jumi",
@@ -453,7 +443,7 @@
       "api": "csp_Jumi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_xpath_94sm",
@@ -462,8 +452,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/94sm.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
     },
     {
       "key": "csp_xpath_jpys",
@@ -472,8 +462,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/jpys.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
     },
     {
       "key": "csp_xpath_age",
@@ -482,8 +472,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/agefans.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
     },
     {
       "key": "csp_xpath_jpyszl",
@@ -492,8 +482,8 @@
       "api": "csp_XPathMac",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/jpys.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
     },
     {
       "key": "csp_xpath_nfmov",
@@ -502,8 +492,8 @@
       "api": "csp_XPathNfMov",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/nfmovie.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
     },
     {
       "key": "csp_xpath_tvci",
@@ -512,8 +502,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/tvci.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
     },
     {
       "key": "csp_xpath_duboku",
@@ -522,8 +512,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/duboku.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
     },
     {
       "key": "csp_xpath_saohuotv",
@@ -532,8 +522,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/saohuotv2.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
     },
     {
       "key": "csp_xpath_cjt",
@@ -542,8 +532,8 @@
       "api": "csp_XPathMac",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/cjtys.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -552,8 +542,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/dm84.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -562,8 +552,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/jumi.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
     },
     {
       "key": "csp_xpath_egg",
@@ -572,8 +562,18 @@
       "api": "csp_XPathEgg",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/CatTV-js/egg.json"
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
+    },
+    {
+      "key": "csp_yysdali",
+      "name": "YYDS影视(XPath)",
+      "type": 3,
+      "api": "csp_YydsAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
     },
     {
       "key": "csp_ysdq_007影视",
@@ -582,7 +582,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "007影视"
     },
     {
@@ -592,7 +592,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "555电影"
     },
     {
@@ -602,7 +602,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "5060影院"
     },
     {
@@ -612,7 +612,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "913E影视"
     },
     {
@@ -622,7 +622,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "播放呀"
     },
     {
@@ -632,7 +632,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "畅视影视"
     },
     {
@@ -642,7 +642,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "点播TV"
     },
     {
@@ -652,7 +652,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "迪迪影院"
     },
     {
@@ -662,7 +662,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "嘀哩嘀哩"
     },
     {
@@ -672,7 +672,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "毒舌电影"
     },
     {
@@ -682,7 +682,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "大师兄"
     },
     {
@@ -692,7 +692,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "瓜皮TV"
     },
     {
@@ -702,7 +702,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "海胆影视"
     },
     {
@@ -712,7 +712,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "海绵影视"
     },
     {
@@ -722,7 +722,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "京广航"
     },
     {
@@ -732,7 +732,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "九合视频"
     },
     {
@@ -742,7 +742,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "江湖影视"
     },
     {
@@ -752,7 +752,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "极客"
     },
     {
@@ -762,7 +762,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "久九影视"
     },
     {
@@ -772,7 +772,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "蓝果影视"
     },
     {
@@ -782,7 +782,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "琳琅影视"
     },
     {
@@ -792,7 +792,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "极乐阁"
     },
     {
@@ -802,7 +802,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "萌蛋蛋"
     },
     {
@@ -812,7 +812,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "思古影视"
     },
     {
@@ -822,7 +822,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "污妖动漫"
     },
     {
@@ -832,7 +832,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "小易影视"
     },
     {
@@ -842,7 +842,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "影视工场"
     },
     {
@@ -852,7 +852,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "追剧达人"
     },
     {
@@ -862,7 +862,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "80影视"
     },
     {
@@ -872,7 +872,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "80k影视"
     },
     {
@@ -882,7 +882,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "FUFU影视"
     },
     {
@@ -892,7 +892,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "VIP影视"
     },
     {
@@ -902,7 +902,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "爱影视"
     },
     {
@@ -912,7 +912,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "白菜追剧"
     },
     {
@@ -922,7 +922,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "初心影视"
     },
     {
@@ -932,7 +932,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "段友影视"
     },
     {
@@ -942,7 +942,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "飞捷影视"
     },
     {
@@ -952,7 +952,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "公主影视"
     },
     {
@@ -962,7 +962,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "辉哥影视"
     },
     {
@@ -972,7 +972,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "哈尼视频"
     },
     {
@@ -982,7 +982,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "核桃影视V1"
     },
     {
@@ -992,7 +992,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "懒猫电影"
     },
     {
@@ -1002,7 +1002,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "冷视TV"
     },
     {
@@ -1012,7 +1012,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "喵乐影视"
     },
     {
@@ -1022,7 +1022,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "南府追剧"
     },
     {
@@ -1032,7 +1032,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "内涵影视"
     },
     {
@@ -1042,7 +1042,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "柠檬影视"
     },
     {
@@ -1052,7 +1052,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "手指影视"
     },
     {
@@ -1062,7 +1062,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "淘剧社"
     },
     {
@@ -1072,7 +1072,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "团夕影院"
     },
     {
@@ -1082,7 +1082,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "我爱跟剧"
     },
     {
@@ -1092,7 +1092,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "吾爱影视"
     },
     {
@@ -1102,7 +1102,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "小城影视"
     },
     {
@@ -1112,7 +1112,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "先锋影视"
     },
     {
@@ -1122,7 +1122,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "小极影视"
     },
     {
@@ -1132,7 +1132,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "小蜻蜓视频"
     },
     {
@@ -1142,7 +1142,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "休闲影视"
     },
     {
@@ -1152,7 +1152,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "远方影视"
     },
     {
@@ -1162,7 +1162,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "颖家影院"
     },
     {
@@ -1172,7 +1172,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "优炫影视"
     },
     {
@@ -1182,7 +1182,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "一只鱼影视"
     },
     {
@@ -1192,7 +1192,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "追番猫"
     },
     {
@@ -1202,7 +1202,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "追剧吧"
     },
     {
@@ -1212,7 +1212,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "侦探影视"
     },
     {
@@ -1222,7 +1222,7 @@
       "api": "csp_Ysdq",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "追影兔"
     },
     {
@@ -1233,7 +1233,7 @@
       "playUrl": "https://player.laoyam3u8.com/aliplayer/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "优果",
@@ -1242,7 +1242,7 @@
       "api": "https://www.ugvapi.com/inc/zyapimac.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "佳丽TV",
@@ -1251,16 +1251,7 @@
       "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "环亚资源",
-      "name": "CR环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "大地资源",
@@ -1269,7 +1260,7 @@
       "api": "https://dadiapi.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "色色",
@@ -1278,7 +1269,7 @@
       "api": "http://m.7777688.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "乐播",
@@ -1287,7 +1278,7 @@
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "苍天",
@@ -1296,7 +1287,7 @@
       "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "鲨鱼资源",
@@ -1305,7 +1296,7 @@
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "乐鱼资源",
@@ -1315,7 +1306,7 @@
       "playUrl": "https://player.leyuzy.net/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "探探资源",
@@ -1325,107 +1316,107 @@
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "色色资源站",
-      "name": "CR色色资源站",
+      "key": "色色资源",
+      "name": "CR色色资源",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "玖玖资源站",
-      "name": "CR玖玖资源站",
+      "key": "玖玖资源",
+      "name": "CR玖玖资源",
       "type": 0,
       "api": "http://99zywcj.com/inc/sck.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "狼少年资源站",
-      "name": "CR狼少年资源站",
+      "key": "狼少年资源",
+      "name": "CR狼少年资源",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "富二代资源站",
-      "name": "CR富二代资源站",
+      "key": "富二代资源",
+      "name": "CR富二代资源",
       "type": 0,
       "api": "http://f2dcj6.com/sapi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "字幕网资源站",
-      "name": "CR字幕网资源站",
+      "key": "字幕网资源",
+      "name": "CR字幕网资源",
       "type": 0,
       "api": "http://zmcj88.com/sapi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "久草资源站",
-      "name": "CR久草资源站",
+      "key": "久草资源",
+      "name": "CR久草资源",
       "type": 0,
       "api": "http://jcspcj8.com/sapi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "JAV名优资源站",
-      "name": "CR-JAV名优资源站",
+      "key": "JAV名优资源",
+      "name": "CR-JAV名优资源",
       "type": 0,
       "api": "http://mygzycj.com/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "利来资源站",
-      "name": "CR利来资源站",
+      "key": "利来资源",
+      "name": "CR利来资源",
       "type": 0,
       "api": "http://llzxcj.com/inc/sck.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "博天堂资源站",
-      "name": "CR博天堂资源站",
+      "key": "博天堂资源",
+      "name": "CR博天堂资源",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "环亚资源站",
-      "name": "CR环亚资源站",
+      "key": "环亚资源",
+      "name": "CR环亚资源",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
-      "key": "丝袜资源网",
-      "name": "CR丝袜资源网",
+      "key": "丝袜资源",
+      "name": "CR丝袜资源",
       "type": 0,
       "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml/",
       "playUrl": "https://help.siwazyw.com/m3u8.php?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "爱播资源",
@@ -1435,7 +1426,7 @@
       "playUrl": "https://player.aibozyplayer.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "自建综合试验",
@@ -1444,7 +1435,7 @@
       "api": "http://192.168.10.5/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ],
   "parses": [
