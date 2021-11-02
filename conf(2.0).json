@@ -19,15 +19,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_EPang",
-      "name": "阿房影视(已废弃)",
-      "type": 3,
-      "api": "csp_EPang",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key": "csp_Auete",
       "name": "Auete(爬虫)",
       "type": 3,
@@ -68,15 +59,6 @@
       "name": "90影视(爬虫)",
       "type": 3,
       "api": "csp_N0ys",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ubo",
-      "name": "U播影视(已废弃)",
-      "type": 3,
-      "api": "csp_Ubo",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
