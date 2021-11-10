@@ -1,4 +1,4 @@
-点播:
+点播：
 【分类头】影视点播-福利点播【分类尾】
 【影视点播头】
 爱看,http://v.aik.la/api.php/provide/vod/at/xml,不解析
@@ -138,7 +138,7 @@ IXX 资源,http://api.iixxzyapi.com/inc/api.php,不解析
 自建综合试验,http://192.168.10.5/api.php/provide/vod/at/xml/,不解析
 【福利点播尾】 
 结束
-解析:
+解析：
 人人,https://www.ifreefans.com/jx2/?url=
 亿慧通,https://www.json.yihuiton.com/?url=
 暮光,https://www.mgtv.com.muguangys.com/jiexi.php?url=
@@ -269,7 +269,7 @@ OK,https://okjx.cc/?url=
 云析,https://jx.yparse.com/index.php?url=
 8090,https://www.8090g.cn/?url=
 结束  
-直播:
+直播：
 【分类头】本地频道-央视频道-卫视频道-地方频道-特色频道-少儿频道-IHOT频道-体育频道-埋堆堆频道-Sitv频道-电影频道-其他频道【分类尾】
 【本地频道头】
 威海综合,https://jsylivealone302.iqilu.com/live/weihai_tv01/index.m3u8
