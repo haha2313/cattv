@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "clan://maomao/MeowXB/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",
+  "spider": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/XBiubiuLA3.jar",
   "lives": [
     {
       "group": "redirect",
@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            // base64(clan://maomao/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
+            // base64(https://github.com/haha2313/cattv/blob/main/maomao/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
             "proxy://do=live&type=txt&ext=Y2xhbjovL21hb21hby90di9saXZlLnR4dA=="
           ]
         }
@@ -24,7 +24,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/duboku.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/duboku.json"
     },
     {
       "key": "csp_Kuaikan",
@@ -52,7 +52,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/huya2.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/huya2.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -62,7 +62,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXP/kuqimv.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -72,7 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/厂长资源-蓝光.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/厂长资源-蓝光.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/特狗影视.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/特狗影视.json"
     },
     {
       "key": "csp_biubiu_喜鹊视频",
@@ -92,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/喜鹊视频.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/喜鹊视频.json"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/瓜皮TV.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/瓜皮TV.json"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/真的卡影院.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/真的卡影院.json"
     },
     {
       "key": "csp_biubiu_荣耀Glory",
@@ -122,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/荣耀Glory.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/荣耀Glory.json"
     },
     {
       "key": "csp_biubiu_87影院",
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://maomao/MeowXB/87影院.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/87影院.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -142,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXB/蓝光影院.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_xpath_ctv",
@@ -152,7 +152,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/chongtmtv.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/chongtmtv.json"
     },
     {
       "key": "csp_xpath_汉城影院",
@@ -162,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/hancheng.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/hancheng.json"
     },
     {
       "key": "csp_xpath_libv",
@@ -172,7 +172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/libv.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/libv.json"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -182,7 +182,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/cokemv.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/cokemv.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/dadagui.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -202,7 +202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/jubaibai.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/jubaibai.json"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -212,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/Jumi.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/Jumi.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -222,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/Renjie.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/Renjie.json"
     },
     {
       "key": "csp_xpath_lranc",
@@ -232,7 +232,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/lranc.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/lranc.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -242,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/yanet.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/yanet.json"
     },
     {
       "key": "csp_xpath_Ole",
@@ -252,7 +252,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/olevod.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/olevod.json"
     },
     {
       "key": "csp_xpath_xxys520",
@@ -262,7 +262,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/xxys520.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/xxys520.json"
     },
     {
       "key": "csp_xpath_348z",
@@ -272,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://maomao/MeowXP/348z.json"
+      "ext": "https://github.com/haha2313/cattv/blob/main/maomao/MeowXP/348z.json"
     },
     {
       "key": "csp_appysv2_星宿漫",
