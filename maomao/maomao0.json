@@ -8,8 +8,7 @@
         {
           "name": "live",
           "urls": [
-            // base64(https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
-            "proxy://do=live&type=txt&ext=Y2xhbjovL21hb21hby90di9saXZlLnR4dA=="
+            "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/tv/live.txt"
           ]
         }
       ]
