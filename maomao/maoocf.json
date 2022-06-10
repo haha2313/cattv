@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",
+  "spider": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",
   "lives": [
     {
       "group": "redirect",
@@ -8,7 +8,8 @@
         {
           "name": "live",
           "urls": [
-            //base64(https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/tv/live.txt)=Y2xhbjovL21hb21hby90di9saXZlLnR4dA=="proxy://do=live&type=txt&ext=Y2xhbjovL21hb21hby90di9saXZlLnR4dA=="
+            // base64(https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/tv/live.txt) = Y2xhbjovL21hb21hby90di9saXZlLnR4dA==
+            "proxy://do=live&type=txt&ext=Y2xhbjovL21hb21hby90di9saXZlLnR4dA=="
           ]
         }
       ]
@@ -23,7 +24,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/duboku.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/duboku.json"
     },
     {
       "key": "csp_Kuaikan",
@@ -51,7 +52,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/huya2.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/huya2.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -61,7 +62,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/kuqimv.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -71,7 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/厂长资源-蓝光.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/厂长资源-蓝光.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -81,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/特狗影视.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/特狗影视.json"
     },
     {
       "key": "csp_biubiu_喜鹊视频",
@@ -91,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/喜鹊视频.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/喜鹊视频.json"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -101,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/瓜皮TV.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/瓜皮TV.json"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -111,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/真的卡影院.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/真的卡影院.json"
     },
     {
       "key": "csp_biubiu_荣耀Glory",
@@ -121,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/荣耀Glory.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/荣耀Glory.json"
     },
     {
       "key": "csp_biubiu_87影院",
@@ -131,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/87影院.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/87影院.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -141,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXB/蓝光影院.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_xpath_ctv",
@@ -151,7 +152,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/chongtmtv.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/chongtmtv.json"
     },
     {
       "key": "csp_xpath_汉城影院",
@@ -161,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/hancheng.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/hancheng.json"
     },
     {
       "key": "csp_xpath_libv",
@@ -171,7 +172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/libv.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/libv.json"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -181,7 +182,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/cokemv.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/cokemv.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -191,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/dadagui.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -201,7 +202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/jubaibai.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/jubaibai.json"
     },
     {
       "key": "csp_xpath_Jumi",
@@ -211,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/Jumi.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/Jumi.json"
     },
     {
       "key": "csp_xpath_唐人街",
@@ -221,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/Renjie.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/Renjie.json"
     },
     {
       "key": "csp_xpath_lranc",
@@ -231,7 +232,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/lranc.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/lranc.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -241,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/yanet.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/yanet.json"
     },
     {
       "key": "csp_xpath_Ole",
@@ -251,7 +252,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/olevod.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/olevod.json"
     },
     {
       "key": "csp_xpath_xxys520",
@@ -261,7 +262,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/xxys520.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/xxys520.json"
     },
     {
       "key": "csp_xpath_348z",
@@ -271,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://oneindex-dream-au2313w.2313.workers.dev?file=/cattv/maomao/MeowXP/348z.json"
+      "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/MeowXP/348z.json"
     },
     {
       "key": "csp_appysv2_星宿漫",
@@ -704,22 +705,11 @@
       "ext": "https://appx.uy07.com/api.php/v1.vod"
     }
   ],
+
   "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
+    { "name": "解析聚合", "type": 3, "url": "Demo" },
+    { "name": "Json并发", "type": 2, "url": "Parallel" },
+    { "name": "Json轮询", "type": 2, "url": "Sequence" },
     {
       "name": "线路m9",
       "type": 1,
@@ -745,9 +735,7 @@
           "xigua",
           "1905"
         ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
+        "header": { "User-Agent": "Dart/2.14 (dart:io)" }
       }
     },
     {
@@ -773,51 +761,31 @@
       "name": "bilibili",
       "type": 1,
       "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=",
-      "ext": {
-        "flag": [
-          "bilibili"
-        ]
-      }
+      "ext": { "flag": ["bilibili"] }
     },
     {
       "name": "leduo",
       "type": 1,
       "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
-      "ext": {
-        "flag": [
-          "leduo"
-        ]
-      }
+      "ext": { "flag": ["leduo"] }
     },
     {
       "name": "duoduozy2",
       "type": 1,
       "url": "https://a.dxzj88.com/jxjx/dd.php?url=",
-      "ext": {
-        "flag": [
-          "duoduozy"
-        ]
-      }
+      "ext": { "flag": ["duoduozy"] }
     },
     {
       "name": "renrenmi2",
       "type": 1,
       "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
-      "ext": {
-        "flag": [
-          "renrenmi"
-        ]
-      }
+      "ext": { "flag": ["renrenmi"] }
     },
     {
       "name": "renrenmi3",
       "type": 1,
       "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
-      "ext": {
-        "flag": [
-          "renrenmi"
-        ]
-      }
+      "ext": { "flag": ["renrenmi"] }
     },
     {
       "name": "Pro2",
@@ -844,12 +812,7 @@
       "name": "2",
       "type": 1,
       "url": "https://jx.mczdyw.com/xg.php?url=",
-      "ext": {
-        "flag": [
-          "mgtv",
-          "芒果"
-        ]
-      }
+      "ext": { "flag": ["mgtv", "芒果"] }
     },
     {
       "name": "3",
@@ -1057,12 +1020,7 @@
       "name": "hfyrw",
       "type": 1,
       "url": "https://json.hfyrw.com/mao.go?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi"
-        ]
-      }
+      "ext": { "flag": ["ltnb", "renrenmi"] }
     },
     {
       "name": "aiaine02",
@@ -1085,14 +1043,7 @@
       "name": "五一解析",
       "type": 1,
       "url": "https://json.5lp.net/json.php?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi",
-          "rx",
-          "rongxing"
-        ]
-      }
+      "ext": { "flag": ["ltnb", "renrenmi", "rx", "rongxing"] }
     },
     {
       "name": "RongXingVR",
@@ -1115,11 +1066,7 @@
       "name": "jx165",
       "type": 1,
       "url": "https://ltjx.kuaixiao.vip/home/api?type=ys&uid=506916&key=dlmpwBHIKLMPQRVW23&url=",
-      "ext": {
-        "flag": [
-          "ltnb"
-        ]
-      }
+      "ext": { "flag": ["ltnb"] }
     },
     {
       "name": "jx36",
@@ -1143,52 +1090,31 @@
       "name": "J13",
       "type": 1,
       "url": "https://languangyingshiziyuan.1080zy.top/longtengzy.php/?url=",
-      "ext": {
-        "flag": [
-          "ltnb"
-        ]
-      }
+      "ext": { "flag": ["ltnb"] }
     },
     {
       "name": "xfyun云",
       "type": 1,
       "url": "https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=",
-      "ext": {
-        "flag": [
-          "xfyun"
-        ]
-      }
+      "ext": { "flag": ["xfyun"] }
     },
     {
       "name": "Wuduzy",
       "type": 1,
       "url": "https://aa.xkys.tv/json.php?url=",
-      "ext": {
-        "flag": [
-          "wuduzy"
-        ]
-      }
+      "ext": { "flag": ["wuduzy"] }
     },
     {
       "name": "LTRX",
       "type": 1,
       "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
-      "ext": {
-        "flag": [
-          "rx"
-        ]
-      }
+      "ext": { "flag": ["rx"] }
     },
     {
       "name": "喵派对资源3",
       "type": 1,
       "url": "https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi"
-        ]
-      }
+      "ext": { "flag": ["ltnb", "renrenmi"] }
     },
     {
       "name": "喵派对资源2",
@@ -1217,11 +1143,7 @@
       "name": "leduotv",
       "type": 1,
       "url": "https://api.leduotv.com/wp-api/getvodurl.php?vid=",
-      "ext": {
-        "flag": [
-          "leduo"
-        ]
-      }
+      "ext": { "flag": ["leduo"] }
     },
     {
       "name": "OJBK",
@@ -1255,20 +1177,12 @@
         ]
       }
     },
-    {
-      "name": "M117",
-      "type": 0,
-      "url": "http://1.117.152.239:39000/?url="
-    },
+    { "name": "M117", "type": 0, "url": "http://1.117.152.239:39000/?url=" },
     {
       "name": "zui",
       "type": 0,
       "url": "https://jx.zui.cm/?url=",
-      "ext": {
-        "flag": [
-          "ltnb"
-        ]
-      }
+      "ext": { "flag": ["ltnb"] }
     },
     {
       "name": "parwix1",
@@ -1326,41 +1240,25 @@
       "name": "xuerenweb",
       "type": 0,
       "url": "https://s.2tu.uk/?url=",
-      "ext": {
-        "flag": [
-          "xueren"
-        ]
-      }
+      "ext": { "flag": ["xueren"] }
     },
     {
       "name": "xuerenweb2",
       "type": 0,
       "url": "https://xrm3u8.qd234.cn/?url=",
-      "ext": {
-        "flag": [
-          "xueren"
-        ]
-      }
+      "ext": { "flag": ["xueren"] }
     },
     {
       "name": "美剧虫",
       "type": 0,
       "url": "https://jx.daiguaji.com/?url=",
-      "ext": {
-        "flag": [
-          "zijian"
-        ]
-      }
+      "ext": { "flag": ["zijian"] }
     },
     {
       "name": "miao",
       "type": 0,
       "url": "https://jx.58g8.com/1/?url=",
-      "ext": {
-        "flag": [
-          "miaoparty"
-        ]
-      }
+      "ext": { "flag": ["miaoparty"] }
     },
     {
       "name": "web1",
@@ -1410,47 +1308,25 @@
       "name": "ltnb04",
       "type": 0,
       "url": "https://vip.bljiex.com/?v=",
-      "ext": {
-        "flag": [
-          "ltnb"
-        ]
-      }
+      "ext": { "flag": ["ltnb"] }
     },
     {
       "name": "ltnb02",
       "type": 0,
       "url": "https://jx.zui.cm/?url=",
-      "ext": {
-        "flag": [
-          "ltnb"
-        ]
-      }
+      "ext": { "flag": ["ltnb"] }
     },
     {
       "name": "CL4K01",
       "type": 0,
       "url": "https://ys.ling00.cn/CL4K/?url=",
-      "ext": {
-        "flag": [
-          "CL4K",
-          "qq",
-          "腾讯"
-        ]
-      }
+      "ext": { "flag": ["CL4K", "qq", "腾讯"] }
     },
     {
       "name": "CL4K02",
       "type": 0,
       "url": "https://app.okmedcos.com/4k/?url=",
-      "ext": {
-        "flag": [
-          "CL4K",
-          "qq",
-          "腾讯",
-          "pptv",
-          "PPTV"
-        ]
-      }
+      "ext": { "flag": ["CL4K", "qq", "腾讯", "pptv", "PPTV"] }
     }
   ],
   "flags": [
@@ -1471,161 +1347,49 @@
     {
       "group": "软解码",
       "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "0" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "0" },
         {
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "0"
         },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
+        { "category": 4, "name": "mediacodec-hevc", "value": "0" },
+        { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
       ]
     },
     {
       "group": "硬解码",
       "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
+        { "category": 4, "name": "opensles", "value": "0" },
+        { "category": 4, "name": "overlay-format", "value": "842225234" },
+        { "category": 4, "name": "framedrop", "value": "1" },
+        { "category": 4, "name": "soundtouch", "value": "1" },
+        { "category": 4, "name": "start-on-prepared", "value": "1" },
+        { "category": 1, "name": "http-detect-range-support", "value": "0" },
+        { "category": 1, "name": "fflags", "value": "fastseek" },
+        { "category": 2, "name": "skip_loop_filter", "value": "48" },
+        { "category": 4, "name": "reconnect", "value": "1" },
+        { "category": 4, "name": "enable-accurate-seek", "value": "0" },
+        { "category": 4, "name": "mediacodec", "value": "1" },
+        { "category": 4, "name": "mediacodec-auto-rotate", "value": "1" },
         {
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "1"
         },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
+        { "category": 4, "name": "mediacodec-hevc", "value": "1" },
+        { "category": 1, "name": "dns_cache_timeout", "value": "600000000" }
       ]
     }
   ],
