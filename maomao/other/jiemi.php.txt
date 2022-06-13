@@ -1,0 +1,38 @@
+<?php //php 7.0.8
+
+class Aes
+{
+	public $key = '';
+
+	public $iv = '';
+
+	public function __construct($config)
+	{
+		foreach($config as $k => $v){
+			$this->$k = $v;
+		}
+	}
+	//加密
+	public function aesEn($data){
+	 return  base64_encode(openssl_encrypt($data, $this->method,$this->key, OPENSSL_RAW_DATA , $this->iv));  
+	}
+
+    //解密
+	public function aesDe($data){
+	 return openssl_decrypt(base64_decode($data),  $this->method, $this->key, OPENSSL_RAW_DATA, $this->iv);
+	}
+}
+
+ $config = [
+	'key'	=>	'ppvod', //加密key 
+	'iv'	=>  md5(time(). uniqid(),true), //保证偏移量为16位, //保证偏移量为16位
+	'method'	=> 'AES-128-CBC' //加密方式  # AES-256-CBC等
+ ];
+
+$obj = new Aes($config);
+
+
+$res ='U2FsdGVkX1+rkwkuo89ONrAPvCmxzP4KB+Gz18a0jJgRVZAv0zmlxgQ1bB9xmOKlgfvIyaXBgiiQs+wWNIiO1+n2VTRABui5+ENO+qDwKDtn9hsMMiB/Jhdf3XghUYoLgOewxdfGJM6nfml5Yvv5l0akNr+GlzaUtLI0w2sW5s7CTQfeTXMRBEo/wm1wxBfzLZbFLp1qL7R3uSVCU62F0F5TTGe+JopA9x12ig1lEn7uC0W2oi2mRZzko69RAO4hTiKIYFuyQD1NQHsnjFAbH03E+MNuzpMA2bo+S++WUqJtgzPq+ewznFk9ZtBD/g5n058C/zX7sG69QAcKhbTmT06xS6js+x3VriN5pcOlcMPcsXG1Dvvt9VViAziC7GA/n+7PFvoyTnor1ACMp0a2l9L+5fHAWY1zkeCr0E9d1/0eM+ZgCFiM4bqC0GcFYKdv4TwBcVSlw0+3+HL1uZP+WpARyv0LnmNz31An2OFSsVa65zLd5vcIrHLRbtW1LGjoXQIM1+SCbm7LAXBGsxVf3cfeHsnLRIHr/zBurO2Gx6a89fzKEfKaOnyR3CbRirBuTz3Hc1Mta1SNSFEe8Hztost4NBJfs60gwk3StsrXXio8v6LrmidbgGTZ02bHkqOCkv1hRgk1Mc9xEjWHFLhriqZiNMITUiWs4osRpbcHn+JCCV6u+YpSnYINty80fJppO4xSblrGAJqZaSpaYsZl8cJtIHQrI0iyB5gqJ3rVlf0lqw3xbK8MwYugrbRp1pzaB6Riel0GaWlqv9+uKm+9NJMHZDUx7fuhaboyl65YZBVomAsFQDAvEVcW/nId/Twkav7LIWblbglag6L3LaM+KN3/esDkT0zUD61i8rBgy3oEbPmK5yPea3fBoKS+a8SuwM05zLYvfNwuzowpEboG8EVk3mTLrPRzAUwWVraPm2qCbq1BrXsxeEgWe+ySA7vmiYJdpJuE8F9Dh6xwiEmPY5cIZqJy+2iOiBXYS3bQ3XOxMMMyFCKcwR7/dMlaNEbqOUD+pyAesv7XzKOE0px14oIKW7dA4rcbtRRxS9jwGLpT3w7u8lNEJaqMOXz9jhwaJr+kw4Q7slv9lKFnKbtONfQhwC21Aj5yTPU0VXNQRSiOl/jJ9WKw/LklyZvP8gA/LFUSDIwMwTwQZIpa02+rkQ==';
+echo $obj->aesDe($res3);//解密
+    
+?>
