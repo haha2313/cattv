@@ -8,7 +8,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2hhaGEyMzEzL2NhdHR2QG1haW4vbWFvbWFvL3R2L2xpdmUudHh0"
           ]
         }
       ]
@@ -53,7 +53,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    //{
+    {
       "key": "csp_Kumao",
       "name": "🐱酷猫",
       "type": 3,
@@ -113,7 +113,7 @@
       "filterable": 0,
       "ext": "مواء الراكون"
     },
-    //{
+    {
       "key": "csp_GitCafe",
       "name": "🦊小纸条",
       "type": 3,
