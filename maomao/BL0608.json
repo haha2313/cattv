@@ -212,7 +212,8 @@
       "channels": [
         {
           "name": "live",
-          "urls": "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2hhaGEyMzEzL2NhdHR2QG1haW4vbWFvbWFvL3R2L2xpdmUudHh0"
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2hhaGEyMzEzL2NhdHR2QG1haW4vbWFvbWFvL3R2L2xpdmUudHh0"
         ]
       }
     ]
