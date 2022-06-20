@@ -156,7 +156,7 @@
 		},
 		{
 			"key": "csp_xpath_huya",
-			"name": "🐯虎牙(XPF)(直接点播)",
+			"name": "🐯虎牙(XPF)(没页面进点播)",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
