@@ -165,6 +165,16 @@
 			"ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/maomao/MeowXP/huya2.json"
 		},
 		{
+			"key": "csp_biubiu_斗鱼",
+			"name": "🥒斗鱼(XB)(没页面进点播)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/baddychen0608/MeowXB/斗鱼.json"
+		},
+		{
 			"key": "csp_xpath_kuqimv",
 			"name": "🎤酷奇MV(XP)",
 			"type": 3,
